@@ -1,0 +1,13 @@
+pour compiler et exécuter le tracker:
+	tracker> gcc Tracker.c -o Tracker
+on doit fournir un numero de port*/
+	tracker> ./Tracker PortNumber  
+
+
+pour compiler et exécuter le peer on execute la commande suivante dans le dossier Peer:
+	Peer> make peer
+
+note: - le fichier config.ini contient les informations necessaires pour l'execution de peer.
+      - les commandes du programme
+	look nomDeFichier
+	download clé
